@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "description": "Helper for s-kaupat.fi",
   "author": "Max Kalhama",
+  "license": "MIT",
   "scripts": {
     "dev": "plasmo dev",
     "build": "plasmo build",
